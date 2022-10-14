@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "u__2__1_o____OPTPRC/1.0.0": {
+        "runtime": {
+          "u__2__1_o____OPTPRC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "u__2__1_o____OPTPRC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
